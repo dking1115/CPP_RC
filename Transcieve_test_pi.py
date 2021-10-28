@@ -15,5 +15,5 @@ if __name__ == '__main__':
         ser.write(u)
         line = ser.readline().decode('utf-8').rstrip()
         print(line)
-        if i>50:
+        if i>25:
             i=0
