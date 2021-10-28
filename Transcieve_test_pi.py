@@ -13,6 +13,7 @@ if __name__ == '__main__':
         u=u.encode('utf-8')
         ser.write(u)
         line = ser.readline().decode('utf-8').rstrip()
-        print(line)
+        if(line!=""):
+            print(line)
         if i>254:
             i=1
