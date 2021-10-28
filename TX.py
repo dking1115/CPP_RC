@@ -10,4 +10,4 @@ while True:
     s = ser.readline()
     print (s)
     print (read_serial)
-    ser.print(i)
+    ser.println(i)
