@@ -7,7 +7,7 @@ while True:
     if i>100:
         i=-100
     read_serial=ser.readline()
-    s[0] = ser.readline()
-    print (s[0])
+    s = ser.readline()
+    print (s)
     print (read_serial)
     ser.print(i)
