@@ -10,8 +10,10 @@ if __name__ == '__main__':
         ar={0,i,2,3,4,5,6,7}
         #print(ar)
         u=str(ar)+"\n"
+        print(u)
         u=u.encode('utf-8')
         print(u)
+        print("/n")
         ser.write(u)
         line = ser.readline().decode('utf-8').rstrip()
         print(line)
