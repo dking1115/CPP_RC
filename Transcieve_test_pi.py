@@ -8,7 +8,7 @@ if __name__ == '__main__':
     while True:
         i += 1
         ar={0,i,2,3,4,5,6,7}
-        print(ar)
+        #print(ar)
         u=str(ar)+"\n"
         u=u.encode('ASCII')
         ser.write(u)
