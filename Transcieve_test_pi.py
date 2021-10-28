@@ -11,6 +11,7 @@ if __name__ == '__main__':
         #print(ar)
         u=str(ar)+"\n"
         u=u.encode('ASCII')
+        print(u)
         ser.write(u)
         line = ser.readline().decode('utf-8').rstrip()
         print(line)
