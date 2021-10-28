@@ -7,11 +7,11 @@ if __name__ == '__main__':
     ser.flush()
     while True:
         i += 1
-        u=str(i)+"\n"
+        ar={0,i,2,3,4,5,6,7}
+        u=str(ar)+"\n"
         u=u.encode('ASCII')
         ser.write(u)
         line = ser.readline().decode('utf-8').rstrip()
         print(line)
-        time.sleep(1)
         if i>100:
             i=0
