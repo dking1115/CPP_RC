@@ -10,7 +10,7 @@ if __name__ == '__main__':
         ar={0,i,2,3,4,5,6,7}
         #print(ar)
         u=str(ar)+"\n"
-        u=u.encode('ASCII')
+        u=u.encode('utf-8')
         print(u)
         ser.write(u)
         line = ser.readline().decode('utf-8').rstrip()
