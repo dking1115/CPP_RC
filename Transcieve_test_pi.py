@@ -7,7 +7,7 @@ if __name__ == '__main__':
     ser.flush()
     while True:
         i += 1
-        ar={0,i,2,3,4,5,6,7}
+        ar=[0,i,2,3,4,5,6,7]
         #print(ar)
         u=str(ar)+"\n"
         print(u)
