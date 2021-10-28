@@ -7,7 +7,8 @@ if __name__ == '__main__':
     ser.flush()
     while True:
         i += 1
-        ser.write(str(i) + "\n")
+        u=str(i)
+        ser.write(u + "\n")
         line = ser.readline().decode('utf-8').rstrip()
         print(line)
         time.sleep(1)
