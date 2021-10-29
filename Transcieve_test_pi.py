@@ -17,13 +17,22 @@ while True:
         if "ABS_X" in event.code:
             x=event.state
             #print(x)
-            x=((x/32000)*750)+750
+            x=((x/32768)*750)+750
             
         if "ABS_Y" in event.code:
             y=event.state
             #print(y)
-            y=((y/32000)*10000)+10000
+            y=((y/32768)*10000)+10000
             #print(y)
+        if "button" in event.code:
+            switches=1
+        #This deactivates the seat switch
+        if "button" in event.code:
+            switches=2
+        #This sets neutral mode
+        if "button" in event.code:
+            switches=3
+        #This sets drive mode
     #print(x)
     
     ar=[enabled,int(y/255),int(y%255),int(x/255),int(x%255),5,6,7]
