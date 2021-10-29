@@ -16,18 +16,18 @@ while True:
         print(event.ev_type, event.code, event.state)
         if "ABS_X" in event.code:
             x=event.state
-            print(x)
+            #print(x)
             x=((x/32000)*750)+750
             print(x)
         if "ABS_Y" in event.code:
             y=event.state
-            print(y)
+            #print(y)
             y=((y/32000)*10000)+10000
             print(y)
     
     
     ar=[enabled,int(y/255),int(y%255),int(x/255),int(x%255),5,6,7]
-    print(ar)
+    #print(ar)
     u=str(ar)+"\n"
     u=u.encode('utf-8')
     ser.write(u)
