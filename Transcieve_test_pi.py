@@ -7,6 +7,8 @@ ser = serial.Serial('/dev/ttyUSB0', 9600, timeout=1)
 ser.flush()
 enabled=1
 switches=0
+x=0
+y=0
 while True:
     events = get_gamepad()
     for event in events:
