@@ -1,4 +1,4 @@
-from inputs import devices
+from inputs import devices get_gamepad
 for device in devices:
     print(device)
 while 1:
