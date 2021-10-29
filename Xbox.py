@@ -6,8 +6,8 @@ for device in devices:
 while 1:
     events = get_gamepad()
     for event in events:
-        #print(event.code)
-        if event.ev_type=="ABS_X":
+        print(event.ev_type)
+        if "ABS_X" in event.ev_type:
             x=event.state
             print(x)
 
