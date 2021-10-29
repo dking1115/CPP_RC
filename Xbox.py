@@ -7,7 +7,7 @@ while 1:
     events = get_gamepad()
     for event in events:
         #print(event.code)
-        if event.type=="ABS_X":
+        if event.ev_type=="ABS_X":
             x=event.state
             print(x)
 
