@@ -24,7 +24,7 @@ while True:
             #print(y)
             y=((y/32000)*10000)+10000
             #print(y)
-    print(x)
+    #print(x)
     
     ar=[enabled,int(y/255),int(y%255),int(x/255),int(x%255),5,6,7]
     #print(ar)
