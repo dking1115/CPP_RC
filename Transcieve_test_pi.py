@@ -9,6 +9,7 @@ enabled=1
 switches=0
 x=0
 y=0
+T=0
 while True:
     events = get_gamepad()
     for event in events:
