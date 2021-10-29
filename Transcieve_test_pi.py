@@ -45,6 +45,6 @@ while True:
     u=str(ar)+"\n"
     u=u.encode('utf-8')
     ser.write(u)
-    line = bytes.fromhex(ser.readline()).decode('utf-8').rstrip()
+    line = ser.readline()
     if(line!=""):
         print(line)
