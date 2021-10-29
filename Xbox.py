@@ -10,7 +10,7 @@ while 1:
             x=event.state
             print(x)
          if "ABS_Y" in event.code:
-                y=event.state
+            y=event.state
             print(y)
 
 
