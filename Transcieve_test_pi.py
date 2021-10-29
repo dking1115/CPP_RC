@@ -13,29 +13,33 @@ while True:
     events = get_gamepad()
     for event in events:
         switches=0
-        print(event.ev_type, event.code, event.state)
-        if "ABS_X" in event.code:
+        #print(event.ev_type, event.code, event.state)
+        if "ABS_RX" in event.code:
             x=event.state
             x=((x/32768)*750)+750
+
+        if "ABS_RZ" in event.code:
+            T=event.state
+            T=((T/32768)*255)
             
-        if "ABS_Y" in event.code:
+        if "ABS_RY" in event.code:
             y=event.state
             #print(y)
             y=((y/32768)*10000)+10000
             #print(y)
-        if "button" in event.code:
+        if "BTN_EAST" in event.code:
             switches=1
         #This deactivates the seat switch
-        if "button" in event.code:
+        if "BTN_WEST" in event.code:
             switches=2
         #This sets neutral mode
-        if "button" in event.code:
+        if "BTN_SOUTH" in event.code:
             switches=3
         #This sets drive mode
     #print(x)
     
-    ar=[enabled,int(y/255),int(y%255),int(x/255),int(x%255),5,6,7]
-    #print(ar)
+    ar=[enabled,int(y/255),int(y%255),int(x/255),int(x%255),switches,T,7]
+    print(ar)
     u=str(ar)+"\n"
     u=u.encode('utf-8')
     ser.write(u)
