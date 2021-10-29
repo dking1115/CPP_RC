@@ -13,6 +13,7 @@ while True:
     events = get_gamepad()
     for event in events:
         switches=0
+        print(event.ev_type, event.code, event.state)
         if "ABS_X" in event.code:
             x=event.state
         if "ABS_Y" in event.code:
