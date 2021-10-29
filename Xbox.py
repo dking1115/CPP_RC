@@ -6,12 +6,13 @@ for device in devices:
 while 1:
     events = get_gamepad()
     for event in events:
+        print(event.ev_type, event.code, event.state)
         if "ABS_X" in event.code:
             x=event.state
-            print(x)
+            #print(x)
         if "ABS_Y" in event.code:
             y=event.state
-            print(y)
+            #print(y)
 
 
 
