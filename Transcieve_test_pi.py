@@ -40,7 +40,7 @@ while True:
         #This sets drive mode
     #print(x)
     
-    #ar=[enabled,int(y/255),int(y%255),int(x/255),int(x%255),switches,T,7]
+    ar=[enabled,int(y/255),int(y%255),int(x/255),int(x%255),switches,T,7]
     print(ar)
     u=str(ar)+"\n"
     u=u.encode('utf-8')
