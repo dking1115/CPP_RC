@@ -18,7 +18,7 @@ while True:
     y=((y/32000)*10000)+10000
     x=((x/32000)*750)+750
     ar=[enabled,int(y/255),int(y%255),int(x/255),int(x%255),5,6,7]
-    #print(ar)
+    print(ar)
     u=str(ar)+"\n"
     u=u.encode('utf-8')
     ser.write(u)
