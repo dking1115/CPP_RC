@@ -21,8 +21,8 @@ while True:
 
         if "ABS_RZ" in event.code:
             T=event.state
-            T=((T/32768)*255)
-            print(event.ev_type, event.code, event.state)
+            T=((T/1024)*255)
+            #print(event.ev_type, event.code, event.state)
             
         if "ABS_RY" in event.code:
             y=event.state
