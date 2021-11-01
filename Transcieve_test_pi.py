@@ -3,7 +3,7 @@ import serial
 import time
 from inputs import devices
 from inputs import get_gamepad
-ser = serial.Serial('/dev/ttyUSB0', 9600, timeout=1)
+ser = serial.Serial('/dev/ttyUSB0', 115200, timeout=1)
 ser.flush()
 enabled=1
 switches=0
