@@ -67,9 +67,6 @@ def gps_get(folder):
 			ser.close()
 			time.sleep(.1)
 			ser.open()
-	except:
-			error='general gps error'
-			print(error)
 
 if __name__ == "__main__":
 	gps_get()
