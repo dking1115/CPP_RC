@@ -61,7 +61,7 @@ def gps_get(folder):
 			g.read()
 			[t,fix,sats,alt,lat,lat_ns,long,long_ew]=g.vals()
 			print("fix:%s, sats:%s, lat:%s, long:%s"%(fix,sats,lat,long))
-	except IOError:
+		except IOError:
 			error='GPS IO error'
 			print(error)
 			ser.close()
