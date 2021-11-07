@@ -106,7 +106,7 @@ if __name__ == "__main__":
         f.write("name,latitude,longitude\n")    #Write the header to the top of the file
     ind=0
     while True:
-        time.sleep(0.01)
+        #time.sleep(0.01)
         try:
             x=g.read()  #Read from GPS
             [t,fix,sats,alt,lat,lat_ns,longitude,long_ew]=g.vals()  #Get the individial values

@@ -65,6 +65,8 @@ def gps_get():
 			ser.close()
 			time.sleep(.1)
 			ser.open()
+		except:
+			print("General error")
 
 if __name__ == "__main__":
 	gps_get()
