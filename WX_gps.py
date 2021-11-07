@@ -4,8 +4,6 @@ import math
 import RPi.GPIO as GPIO
 import struct
 import sys
-from logs import write
-from logs import error_log
  
 ser = serial.Serial('/dev/ttyUSB0',  9600, timeout = 0)	#Open the serial port at 9600 baud
 ser.flush()
