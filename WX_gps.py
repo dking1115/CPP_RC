@@ -53,7 +53,7 @@ class GPS:
 		return [time,fix,sats,alt,lat,lat_ns,long,long_ew]
 g=GPS()
 
-def gps_get(folder):
+def gps_get():
 	while True:
 		try:
 			g.read()
