@@ -56,8 +56,8 @@ class GPS:
 g=GPS()
 
 def gps_get(folder):
-    while True:
-    	try:
+	while True:
+		try:
 			g.read()
 			[t,fix,sats,alt,lat,lat_ns,long,long_ew]=g.vals()
 			print("fix:%s, sats:%s, lat:%s, long:%s"%(fix,sats,lat,long))
