@@ -72,4 +72,4 @@ def gps_get(folder):
 			print(error)
 
 if __name__ == "__main__":
-    gps_get()
+	gps_get()
