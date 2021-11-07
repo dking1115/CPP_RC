@@ -4,6 +4,7 @@ import math
 import RPi.GPIO as GPIO
 import struct
 import sys
+from logs import write
  
 ser = serial.Serial('/dev/ttyUSB0',  9600, timeout = 0)	#Open the serial port at 9600 baud
 ser.flush()
@@ -59,6 +60,7 @@ def gps_get():
 			g.read()
 			[t,fix,sats,alt,lat,lat_ns,long,long_ew]=g.vals()
 			print("fix:%s, sats:%s, lat:%s, long:%s"%(fix,sats,lat,long))
+			write("GPS.txt",[t,fix,sats,alt,lat,lat_ns,long,long_ew])
 		except IOError:
 			error='GPS IO error'
 			print(error)
