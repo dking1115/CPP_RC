@@ -80,6 +80,13 @@ Rectangle {
                 width: 718
                 height: 371
             }
+
+            PropertyChanges {
+                target: home_Screen
+                x: 677
+                y: -236
+                visible: false
+            }
         },
         State {
             name: "Trans"
@@ -96,6 +103,13 @@ Rectangle {
                 y: -175
                 width: 211
                 height: 153
+                visible: false
+            }
+
+            PropertyChanges {
+                target: home_Screen
+                x: 219
+                y: -388
                 visible: false
             }
         },
@@ -117,6 +131,13 @@ Rectangle {
                 width: 44
                 height: 27
             }
+
+            PropertyChanges {
+                target: home_Screen
+                x: 817
+                y: -375
+                visible: false
+            }
         },
         State {
             name: "expanded"
@@ -126,6 +147,13 @@ Rectangle {
             }
             PropertyChanges {
                 target: nav_Bar
+                visible: false
+            }
+
+            PropertyChanges {
+                target: home_Screen
+                x: 427
+                y: -336
                 visible: false
             }
         }
@@ -152,5 +180,15 @@ Rectangle {
             target: mouseArea
             onClicked: root.state = "expanded"
         }
+    }
+
+    Image {
+        id: home_Screen
+        x: 163
+        y: 17
+        width: 558
+        height: 366
+        source: "Home_Screen.png"
+        fillMode: Image.PreserveAspectFit
     }
 }
