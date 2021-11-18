@@ -16,7 +16,18 @@ while True:
     #print (msg)
     txt=str(msg)
     txt=txt.split()
-    print(txt[3])
+    #print(txt[3])
+    ID=txt[3]
+    Bitone=txt[6]
+    Bittwo=txt[7]
+    Bitthree=txt[8]
+    Bitfour=txt[9]
+    Bitfive=txt[10]
+    Bitsix=txt[11]
+    Bitseven=txt[12]
+    Biteight=txt[13]
+    if(ID=="0cfdd633"):
+        Print(Bitone)
     #print(txt)
     
 
