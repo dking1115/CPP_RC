@@ -26,8 +26,8 @@ while True:
     Bitsix=txt[12]
     Bitseven=txt[13]
     Biteight=txt[14]
-    if(ID=="0cfdd633"):
-        print(int(Bitone,16))
+    if(ID=="0FEF200"):
+        print(int(Bitseven,16))
     #print(txt)
     
 
