@@ -14,8 +14,9 @@ while True:
     txt=txt.split()
     print(txt[3])
     #print(txt)
+    if msg is None:
+        print('Timeout occurred, no message.')
+        os.system('sudo ifconfig can0 down')
 
-if msg is None:
-    print('Timeout occurred, no message.')
 
-os.system('sudo ifconfig can0 down')
+
