@@ -14,7 +14,7 @@ cs.switch_to_output()
 #spi = busio.SPI(board.SCK, board.MOSI, board.MISO)
 
 can_bus = CAN(
-    "/dev/spi0", 28, loopback=False, silent=True
+    "/dev/spi0", cs, loopback=False, silent=True
 )  # use loopback to test without another device
 while True:
     with can_bus.listen(timeout=1.0) as listener:
