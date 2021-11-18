@@ -17,6 +17,7 @@ while True:
     if msg is None:
         print('Timeout occurred, no message.')
         os.system('sudo ifconfig can0 down')
+        exit()
 
 
 
