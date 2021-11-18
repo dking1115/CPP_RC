@@ -27,7 +27,7 @@ while True:
     Bitseven=txt[12]
     Biteight=txt[13]
     if(ID=="0cfdd633"):
-        Print(Bitone)
+        print(Bitone)
     #print(txt)
     
 
