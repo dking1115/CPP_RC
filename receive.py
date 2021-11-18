@@ -8,7 +8,7 @@ can0 = can.interface.Bus(channel = 'can0', bustype = 'socketcan_ctypes')# socket
 
 #msg = can.Message(arbitration_id=0x123, data=[0, 1, 2, 3, 4, 5, 6, 7], extended_id=False)
 while True:
-    msg = can0.recv(10.0)
+    str(msg)= can0.recv(10.0)
     print (msg)
     print(msg.split())
 
