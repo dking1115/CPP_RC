@@ -16,7 +16,7 @@ while True:
     #print (msg)
     txt=str(msg)
     txt=txt.split()
-    print(txt)
+    print(txt[3])
     #print(txt)
     
 
