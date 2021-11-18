@@ -9,12 +9,12 @@ from adafruit_mcp2515.canio import Message, RemoteTransmissionRequest
 from adafruit_mcp2515 import MCP2515 as CAN
 
 
-cs = DigitalInOut(board.D5)
+cs = DigitalInOut(board.D28)
 cs.switch_to_output()
 spi = busio.SPI(board.SCK, board.MOSI, board.MISO)
 
 can_bus = CAN(
-    spi, cs, loopback=True, silent=True
+    spi, cs, loopback=False, silent=True
 )  # use loopback to test without another device
 while True:
     with can_bus.listen(timeout=1.0) as listener:
