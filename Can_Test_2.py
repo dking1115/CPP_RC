@@ -9,7 +9,7 @@ from adafruit_mcp2515.canio import Message, RemoteTransmissionRequest
 from adafruit_mcp2515 import MCP2515 as CAN
 
 
-cs = DigitalInOut(board.D28)
+cs = DigitalInOut(board.D5)
 cs.switch_to_output()
 spi = busio.SPI(board.SCK, board.MOSI, board.MISO)
 
