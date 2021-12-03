@@ -26,6 +26,7 @@ while True:
     Bitsix=txt[12]
     Bitseven=txt[13]
     Biteight=txt[14]
+    print(txt)
     if(ID=="00201905"):
         print(int(Bitfour,16))
     #print(txt)

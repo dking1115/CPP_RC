@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="800"
    height="480"
    viewBox="0 0 211.66666 127"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    sodipodi:docname="Transmission Page.svg"
    inkscape:export-filename="C:\Users\nicks\Documents\CPP Files\2020\Sandeen_Report_Pages\Report Pictures\Transmission_Page.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <linearGradient
@@ -452,21 +452,22 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="388.68479"
-     inkscape:cy="242.08726"
+     inkscape:zoom="1.4225306"
+     inkscape:cx="428.46179"
+     inkscape:cy="288.92174"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
-     inkscape:window-width="3840"
-     inkscape:window-height="2028"
-     inkscape:window-x="-16"
-     inkscape:window-y="-16"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1174"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:bbox-nodes="true" />
+     inkscape:bbox-nodes="true"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -614,9 +615,9 @@
      inkscape:label="Digital Readouts"
      style="display:inline;opacity:1">
     <rect
-       style="display:inline;opacity:1;fill:#252525;fill-opacity:1;stroke:url(#radialGradient4044-3);stroke-width:2.88440418;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="display:inline;opacity:1;fill:#252525;fill-opacity:1;stroke:url(#radialGradient4044-3);stroke-width:2.8844;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect3240-1"
-       width="163.56573"
+       width="163.56567"
        height="117.64822"
        x="44.063896"
        y="3.0912962" />
@@ -624,9 +625,9 @@
        id="text7726-1-2-09-0-9-6"
        y="117.20241"
        x="46.190598"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.35575867px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3558px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.35575867px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3558px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="117.20241"
          x="46.190598"
          id="tspan7724-8-3-2-1-7-7"
@@ -635,9 +636,9 @@
        id="text7726-1-2-09-0-9-6-4"
        y="17.353823"
        x="47.243393"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.35575867px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3558px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.35575867px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3558px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="17.353823"
          x="47.243393"
          sodipodi:role="line"
@@ -650,7 +651,7 @@
          transform="translate(-108.20083,2.5642131)"
          id="g2117-2-1-3-8">
         <rect
-           style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#eaeaea;stroke-width:1.23636508;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64172333;paint-order:normal"
+           style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#eaeaea;stroke-width:1.23637;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.641723;paint-order:normal"
            id="rect3240-7-8-7-3-4-4"
            width="14.715121"
            height="63.12516"
@@ -660,9 +661,9 @@
            id="text7726-1-2-09-0-9-6-5-1-5-2-9-2-5"
            y="18.726673"
            x="190.03789"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
            xml:space="preserve"><tspan
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
              y="18.726673"
              x="190.03789"
              id="tspan7724-8-3-2-1-7-7-6-8-1-7-6-7-8"
@@ -676,70 +677,70 @@
            height="0.64985329"
            width="13.45852"
            id="rect7191-9-0-8-1-0-3"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47543144;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475431;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="69.562317"
            x="80.444977"
            height="0.64985329"
            width="13.475057"
            id="rect7191-9-0-9-33-3-9-7"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47572342;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475723;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="63.584972"
            x="80.461517"
            height="0.64985329"
            width="13.458519"
            id="rect7191-9-0-9-0-5-4-6-7"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47543144;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475431;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="57.607628"
            x="80.444977"
            height="0.64985329"
            width="13.441983"
            id="rect7191-9-0-9-0-3-0-8-9-2"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47513926;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475139;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="51.630283"
            x="80.441025"
            height="0.64985329"
            width="13.475056"
            id="rect7191-9-0-0-6-8-1-1"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47572342;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475723;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="45.652935"
            x="80.453827"
            height="0.64985329"
            width="13.471044"
            id="rect7191-9-0-9-3-4-2-6-6"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47565261;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475653;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="39.675598"
            x="80.466354"
            height="0.64985329"
            width="13.441983"
            id="rect7191-9-0-9-0-9-1-7-6-3"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47513926;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475139;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="33.698257"
            x="80.442131"
            height="0.64985329"
            width="13.457689"
            id="rect7191-9-0-9-0-3-3-9-2-0-7"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47541675;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475417;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="81.517006"
            x="80.493271"
            height="0.64985329"
            width="13.375837"
            id="rect7191-9-0-3-2-0-1-9"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47396877;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.473969;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="27.720905"
            x="80.492294"
            height="0.64985329"
            width="13.375837"
            id="rect7191-9-0-9-0-3-3-9-2-0-4-8"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47396877;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.473969;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
       </g>
     </g>
     <g
@@ -750,7 +751,7 @@
          transform="translate(-108.20083,2.5642131)"
          id="g2117-2-1-3-85">
         <rect
-           style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#eaeaea;stroke-width:1.23636508;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64172333;paint-order:normal"
+           style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#eaeaea;stroke-width:1.23637;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.641723;paint-order:normal"
            id="rect3240-7-8-7-3-4-9"
            width="14.715121"
            height="63.12516"
@@ -760,9 +761,9 @@
            id="text7726-1-2-09-0-9-6-5-1-5-2-9-2-57"
            y="18.726673"
            x="190.03789"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
            xml:space="preserve"><tspan
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
              y="18.726673"
              x="190.03789"
              id="tspan7724-8-3-2-1-7-7-6-8-1-7-6-7-0"
@@ -776,70 +777,70 @@
            height="0.64985329"
            width="13.45852"
            id="rect7191-9-0-8-1-0-4"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47543144;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475431;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="69.562317"
            x="80.444977"
            height="0.64985329"
            width="13.475057"
            id="rect7191-9-0-9-33-3-9-9"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47572342;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475723;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="63.584972"
            x="80.461517"
            height="0.64985329"
            width="13.458519"
            id="rect7191-9-0-9-0-5-4-6-6"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47543144;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475431;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="57.607628"
            x="80.444977"
            height="0.64985329"
            width="13.441983"
            id="rect7191-9-0-9-0-3-0-8-9-6"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47513926;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475139;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="51.630283"
            x="80.441025"
            height="0.64985329"
            width="13.475056"
            id="rect7191-9-0-0-6-8-1-0"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47572342;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475723;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="45.652935"
            x="80.453827"
            height="0.64985329"
            width="13.471044"
            id="rect7191-9-0-9-3-4-2-6-2"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47565261;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475653;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="39.675598"
            x="80.466354"
            height="0.64985329"
            width="13.441983"
            id="rect7191-9-0-9-0-9-1-7-6-1"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47513926;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475139;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="33.698257"
            x="80.442131"
            height="0.64985329"
            width="13.457689"
            id="rect7191-9-0-9-0-3-3-9-2-0-0"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47541675;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475417;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="81.517006"
            x="80.493271"
            height="0.64985329"
            width="13.375837"
            id="rect7191-9-0-3-2-0-1-7"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47396877;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.473969;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="27.720905"
            x="80.492294"
            height="0.64985329"
            width="13.375837"
            id="rect7191-9-0-9-0-3-3-9-2-0-4-5"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47396877;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.473969;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
       </g>
     </g>
     <g
@@ -850,7 +851,7 @@
          transform="translate(-108.20083,2.5642131)"
          id="g2117-2-1-3-6">
         <rect
-           style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#eaeaea;stroke-width:1.23636508;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64172333;paint-order:normal"
+           style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#eaeaea;stroke-width:1.23637;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.641723;paint-order:normal"
            id="rect3240-7-8-7-3-4-8"
            width="14.715121"
            height="63.12516"
@@ -860,9 +861,9 @@
            id="text7726-1-2-09-0-9-6-5-1-5-2-9-2-52"
            y="18.726673"
            x="190.03789"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
            xml:space="preserve"><tspan
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
              y="18.726673"
              x="190.03789"
              id="tspan7724-8-3-2-1-7-7-6-8-1-7-6-7-7"
@@ -876,79 +877,79 @@
            height="0.64985329"
            width="13.45852"
            id="rect7191-9-0-8-1-0-49"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47543144;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475431;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="69.562317"
            x="80.444977"
            height="0.64985329"
            width="13.475057"
            id="rect7191-9-0-9-33-3-9-95"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47572342;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475723;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="63.584972"
            x="80.461517"
            height="0.64985329"
            width="13.458519"
            id="rect7191-9-0-9-0-5-4-6-0"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47543144;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475431;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="57.607628"
            x="80.444977"
            height="0.64985329"
            width="13.441983"
            id="rect7191-9-0-9-0-3-0-8-9-3"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47513926;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475139;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="51.630283"
            x="80.441025"
            height="0.64985329"
            width="13.475056"
            id="rect7191-9-0-0-6-8-1-7"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47572342;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475723;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="45.652935"
            x="80.453827"
            height="0.64985329"
            width="13.471044"
            id="rect7191-9-0-9-3-4-2-6-3"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47565261;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475653;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="39.675598"
            x="80.466354"
            height="0.64985329"
            width="13.441983"
            id="rect7191-9-0-9-0-9-1-7-6-4"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47513926;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475139;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="33.698257"
            x="80.442131"
            height="0.64985329"
            width="13.457689"
            id="rect7191-9-0-9-0-3-3-9-2-0-09"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47541675;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475417;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="81.517006"
            x="80.493271"
            height="0.64985329"
            width="13.375837"
            id="rect7191-9-0-3-2-0-1-3"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47396877;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.473969;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="27.720905"
            x="80.492294"
            height="0.64985329"
            width="13.375837"
            id="rect7191-9-0-9-0-3-3-9-2-0-4-4"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47396877;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.473969;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
       </g>
     </g>
     <text
        id="text7726-1-2-09-0-9-6-43"
        y="82.019157"
        x="71.089844"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8142767px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24744815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81428px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.247448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8142767px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24744815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81428px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.247448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="82.019157"
          x="71.089844"
          id="tspan7724-8-3-2-1-7-7-0"
@@ -960,7 +961,7 @@
          transform="translate(-108.20083,2.5642131)"
          id="g2117-2-1-3">
         <rect
-           style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#eaeaea;stroke-width:1.23636508;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64172333;paint-order:normal"
+           style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#eaeaea;stroke-width:1.23637;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.641723;paint-order:normal"
            id="rect3240-7-8-7-3-4"
            width="14.715121"
            height="63.12516"
@@ -970,9 +971,9 @@
            id="text7726-1-2-09-0-9-6-5-1-5-2-9-2"
            y="18.726673"
            x="190.03789"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
            xml:space="preserve"><tspan
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.4832865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.483286;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
              y="18.726673"
              x="190.03789"
              id="tspan7724-8-3-2-1-7-7-6-8-1-7-6-7"
@@ -986,79 +987,79 @@
            height="0.64985329"
            width="13.45852"
            id="rect7191-9-0-8-1-0"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47543144;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475431;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="69.562317"
            x="80.444977"
            height="0.64985329"
            width="13.475057"
            id="rect7191-9-0-9-33-3-9"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47572342;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475723;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="63.584972"
            x="80.461517"
            height="0.64985329"
            width="13.458519"
            id="rect7191-9-0-9-0-5-4-6"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47543144;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475431;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="57.607628"
            x="80.444977"
            height="0.64985329"
            width="13.441983"
            id="rect7191-9-0-9-0-3-0-8-9"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47513926;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475139;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="51.630283"
            x="80.441025"
            height="0.64985329"
            width="13.475056"
            id="rect7191-9-0-0-6-8-1"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47572342;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475723;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="45.652935"
            x="80.453827"
            height="0.64985329"
            width="13.471044"
            id="rect7191-9-0-9-3-4-2-6"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47565261;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475653;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="39.675598"
            x="80.466354"
            height="0.64985329"
            width="13.441983"
            id="rect7191-9-0-9-0-9-1-7-6"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47513926;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475139;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="33.698257"
            x="80.442131"
            height="0.64985329"
            width="13.457689"
            id="rect7191-9-0-9-0-3-3-9-2-0"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47541675;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.475417;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="81.517006"
            x="80.493271"
            height="0.64985329"
            width="13.375837"
            id="rect7191-9-0-3-2-0-1"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47396877;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.473969;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
         <rect
            y="27.720905"
            x="80.492294"
            height="0.64985329"
            width="13.375837"
            id="rect7191-9-0-9-0-3-3-9-2-0-4"
-           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.66439909;stroke:none;stroke-width:0.47396877;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+           style="display:inline;opacity:1;fill:#3c3c3c;fill-opacity:0.664399;stroke:none;stroke-width:0.473969;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
       </g>
     </g>
     <text
        id="text7726-1-2-09-0-9-6-43-2"
        y="65.765511"
        x="102.79953"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8142767px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24744815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81428px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.247448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8142767px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24744815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81428px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.247448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="65.765511"
          x="102.79953"
          id="tspan7724-8-3-2-1-7-7-0-0"
@@ -1067,9 +1068,9 @@
        id="text7726-1-2-09-0-9-6-43-2-8"
        y="39.794323"
        x="139.84595"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8142767px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24744815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81428px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.247448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8142767px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24744815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81428px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.247448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="39.794323"
          x="139.84595"
          id="tspan7724-8-3-2-1-7-7-0-0-6"
@@ -1078,22 +1079,22 @@
        id="text7726-1-2-09-0-9-6-43-7"
        y="82.037376"
        x="177.74275"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8142767px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24744815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81428px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.247448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8142767px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24744815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81428px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.247448;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="82.037376"
          x="177.74275"
          id="tspan7724-8-3-2-1-7-7-0-7"
          sodipodi:role="line">0%</tspan></text>
     <rect
-       style="fill:#e62424;fill-opacity:0.53287982;stroke:none;stroke-width:2.36638021;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64172333;paint-order:normal"
+       style="fill:#e62424;fill-opacity:0.53288;stroke:none;stroke-width:2.36638;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.641723;paint-order:normal"
        id="rect2953"
        width="13.465255"
        height="3.6719964"
        x="80.445732"
        y="80.050194" />
     <rect
-       style="display:inline;opacity:1;fill:#e62424;fill-opacity:0.53287982;stroke:none;stroke-width:2.36638021;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64172333;paint-order:normal"
+       style="display:inline;opacity:1;fill:#e62424;fill-opacity:0.53288;stroke:none;stroke-width:2.36638;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.641723;paint-order:normal"
        id="rect2953-9"
        width="13.465255"
        height="3.6719964"
@@ -1105,9 +1106,9 @@
        height="2.1582556"
        width="13.45852"
        id="rect7191-9-0-8-1-0-1-1"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient2549-28);stroke-width:0.86642641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient2549-28);stroke-width:0.866426;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
     <rect
-       style="display:inline;opacity:1;fill:#e69324;fill-opacity:0.53287982;stroke:none;stroke-width:5.64942265;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64172333;paint-order:normal"
+       style="display:inline;opacity:1;fill:#e69324;fill-opacity:0.53288;stroke:none;stroke-width:5.64942;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.641723;paint-order:normal"
        id="rect2953-9-6"
        width="13.481791"
        height="20.902987"
@@ -1119,16 +1120,16 @@
        height="2.1582556"
        width="13.45852"
        id="rect7191-9-0-8-1-0-1-7"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient2549-2);stroke-width:0.86642641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient2549-2);stroke-width:0.866426;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
     <rect
        y="79.010574"
        x="80.274086"
        height="2.1582556"
        width="13.45852"
        id="rect7191-9-0-8-1-0-1"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient2549);stroke-width:0.86642641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient2549);stroke-width:0.866426;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
     <rect
-       style="display:inline;opacity:1;fill:#85ca18;fill-opacity:0.53287982;stroke:none;stroke-width:8.56507206;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64172333;paint-order:normal"
+       style="display:inline;opacity:1;fill:#85ca18;fill-opacity:0.53288;stroke:none;stroke-width:8.56507;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.641723;paint-order:normal"
        id="rect2953-9-2"
        width="13.465255"
        height="48.105556"
@@ -1140,7 +1141,7 @@
        height="2.1582556"
        width="13.45852"
        id="rect7191-9-0-8-1-0-1-4"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient2549-5);stroke-width:0.86642641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal" />
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient2549-5);stroke-width:0.866426;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal" />
     <g
        style="display:inline;opacity:1"
        id="g4511-4-9-9"
@@ -1150,20 +1151,20 @@
          transform="translate(9.1281249,6.4822916)" />
     </g>
     <path
-       style="opacity:1;fill:#252525;fill-opacity:1;stroke:url(#radialGradient7989-9-1-4);stroke-width:1.3281405;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#252525;fill-opacity:1;stroke:url(#radialGradient7989-9-1-4);stroke-width:1.32814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        d="m 91.221333,89.7498 c -3.695233,0 -6.642469,2.106522 -6.642506,4.727308 v 22.502482 h 62.316053 c 6.3961,-3e-5 8.5717,-2.37471 8.5717,-6.55675 V 89.7498 Z"
        id="rect9294-6-17-8-7-3-3-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <rect
-       style="display:inline;opacity:1;fill:#dedede;fill-opacity:0.35321105;stroke:none;stroke-width:0.93714619;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal"
+       style="display:inline;opacity:1;fill:#dedede;fill-opacity:0.353211;stroke:none;stroke-width:0.937146;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal"
        id="rect7191-9-6"
        width="69.456741"
        height="0.48925707"
        x="85.329651"
        y="107.4915" />
     <rect
-       style="display:inline;opacity:1;fill:#dedede;fill-opacity:0.35321105;stroke:none;stroke-width:0.9393208;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49541285;paint-order:normal"
+       style="display:inline;opacity:1;fill:#dedede;fill-opacity:0.353211;stroke:none;stroke-width:0.939321;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.495413;paint-order:normal"
        id="rect7191-9-4-8"
        width="69.779449"
        height="0.48925707"
@@ -1173,9 +1174,9 @@
        id="text7726-1-2-09-0-9-6-2-0-3"
        y="96.420662"
        x="91.243797"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="96.420662"
          x="91.243797"
          id="tspan7724-8-3-2-1-7-7-8-6-7"
@@ -1184,9 +1185,9 @@
        id="text7726-1-2-09-0-9-6-2-1-5-0"
        y="96.961403"
        x="127.25362"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="96.961403"
          x="127.25362"
          id="tspan7724-8-3-2-1-7-7-8-9-2-2"
@@ -1195,9 +1196,9 @@
        id="text7726-1-2-09-0-9-6-2-0-3-4"
        y="105.48052"
        x="86.68232"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="105.48052"
          x="86.68232"
          id="tspan7724-8-3-2-1-7-7-8-6-7-1"
@@ -1206,9 +1207,9 @@
        id="text7726-1-2-09-0-9-6-2-1-5-0-6"
        y="105.6647"
        x="126.15687"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="105.6647"
          x="126.15687"
          id="tspan7724-8-3-2-1-7-7-8-9-2-2-7"
@@ -1217,9 +1218,9 @@
        id="text7726-1-2-09-0-9-6-2-0-3-4-4"
        y="113.77824"
        x="96.884247"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="113.77824"
          x="96.884247"
          id="tspan7724-8-3-2-1-7-7-8-6-7-1-0"
@@ -1228,15 +1229,15 @@
        id="text7726-1-2-09-0-9-6-2-1-5-0-6-9"
        y="114.14324"
        x="125.72495"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80660629px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33030289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80661px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.330303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="114.14324"
          x="125.72495"
          id="tspan7724-8-3-2-1-7-7-8-9-2-2-7-4"
          sodipodi:role="line">167.3 F</tspan></text>
     <path
-       style="opacity:1;fill:#252525;fill-opacity:1;stroke:url(#radialGradient9426);stroke-width:1.27079368;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#252525;fill-opacity:1;stroke:url(#radialGradient9426);stroke-width:1.27079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        d="M 171.96116,89.598564 A 12.690497,7.8161591 0 0 0 159.27078,97.4147 v 19.42859 h 31.54452 a 12.690497,7.8161597 0 0 0 12.69039,-7.81614 V 89.598564 Z"
        id="rect9294"
        inkscape:connector-curvature="0" />
@@ -1244,9 +1245,9 @@
        id="text7726-1-4"
        y="111.41685"
        x="161.09294"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.10723877px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52306747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1072px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.523067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.10723877px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52306747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1072px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.523067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="111.41685"
          x="161.09294"
          id="tspan7724-8-2"
@@ -1255,17 +1256,12 @@
        id="text7726-1-4-8"
        y="111.37946"
        x="174.9238"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.10723877px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52306747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
-       xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.10723877px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52306747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
-         y="134.26761"
-         x="174.9238"
-         id="tspan7724-8-2-7"
-         sodipodi:role="line" /></text>
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1072px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.523067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
+       xml:space="preserve" />
     <text
        transform="scale(0.71533609,1.3979443)"
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.78842163px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.34975877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.7884px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.349759;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        x="246.32655"
        y="77.738792"
        id="text4192"><tspan
@@ -1273,14 +1269,14 @@
          id="tspan4190"
          x="246.32655"
          y="77.738792"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.78842163px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.34975877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587">→</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.7884px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.349759;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046">→</tspan></text>
     <text
        id="text7726-1-4-9"
        y="111.12263"
        x="187.95256"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.10723877px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52306747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1072px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.523067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.10723877px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52306747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55504587"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1072px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.523067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.555046"
          y="111.12263"
          x="187.95256"
          id="tspan7724-8-2-0"

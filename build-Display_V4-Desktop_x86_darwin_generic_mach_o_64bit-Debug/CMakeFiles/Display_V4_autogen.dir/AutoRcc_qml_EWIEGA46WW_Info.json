@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/Users/davidking/Desktop/CPP_RC/build-Display_V4-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Display_V4_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/davidking/Desktop/CPP_RC/build-Display_V4-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/davidking/Desktop/CPP_RC/build-Display_V4-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/davidking/Desktop/CPP_RC/Display_V4",
+	"CMAKE_SOURCE_DIR" : "/Users/davidking/Desktop/CPP_RC/Display_V4",
+	"INCLUDE_DIR" : "/Users/davidking/Desktop/CPP_RC/build-Display_V4-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Display_V4_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/davidking/Desktop/CPP_RC/Display_V4/qtquickcontrols2.conf",
+		"/Users/davidking/Desktop/CPP_RC/Display_V4/HomeForm.ui.qml",
+		"/Users/davidking/Desktop/CPP_RC/Display_V4/main.qml",
+		"/Users/davidking/Desktop/CPP_RC/Display_V4/Page2Form.ui.qml",
+		"/Users/davidking/Desktop/CPP_RC/Display_V4/Page1Form.ui.qml"
+	],
+	"LOCK_FILE" : "/Users/davidking/Desktop/CPP_RC/build-Display_V4-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Display_V4_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/Users/davidking/Qt6/6.2.1/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/davidking/Desktop/CPP_RC/build-Display_V4-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Display_V4_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/davidking/Desktop/CPP_RC/Display_V4/qml.qrc",
+	"VERBOSITY" : 0
+}
