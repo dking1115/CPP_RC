@@ -1,0 +1,5 @@
+/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/CMakeFiles/Display_V5.dir
+/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/CMakeFiles/Display_V5_autogen_timestamp_deps.dir
+/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/CMakeFiles/Display_V5_autogen.dir

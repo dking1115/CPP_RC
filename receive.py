@@ -30,7 +30,3 @@ while True:
     if(ID=="00201905"):
         print(int(Bitfour,16))
     #print(txt)
-    
-
-
-

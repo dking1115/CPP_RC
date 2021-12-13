@@ -1,0 +1,409 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Display_V5"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"target_link_libraries",
+			"target_compile_definitions"
+		],
+		"files" : 
+		[
+			"/Users/davidking/Qt6/6.2.1/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 847,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 523,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 559,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 47,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 524,
+				"parent" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 45,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 6,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "QT_QML_DEBUG"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_QUICK_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug"
+				},
+				{
+					"path" : "/Users/davidking/Desktop/CPP_RC/Display_V5"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/Display_V5_autogen/include"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtCore.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtCore.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/include"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtQuick.framework"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtQuick.framework/Headers"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtGui.framework"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtGui.framework/Headers"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtQml.framework"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtQml.framework/Headers"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtNetwork.framework"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtNetwork.framework/Headers"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtQmlModels.framework"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtQmlModels.framework/Headers"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtOpenGL.framework"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtOpenGL.framework/Headers"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					6
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				4
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Display_V5_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Display_V5_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "Display_V5::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/Users/davidking/Qt6/6.2.1/macos/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtQuick.framework/Versions/A/QtQuick",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtQmlModels.framework/Versions/A/QtQmlModels",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtQml.framework/Versions/A/QtQml",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtNetwork.framework/Versions/A/QtNetwork",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtOpenGL.framework/Versions/A/QtOpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtGui.framework/Versions/A/QtGui",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/Users/davidking/Qt6/6.2.1/macos/lib/QtCore.framework/Versions/A/QtCore",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-framework",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-framework",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "AGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Display_V5",
+	"nameOnDisk" : "Display_V5",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				4
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2,
+				3
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				5,
+				6
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/Display_V5_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "qml.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/Display_V5_autogen/timestamp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/Display_V5_autogen/EWIEGA46WW/qrc_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/Display_V5_autogen/timestamp.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/davidking/Desktop/CPP_RC/build-Display_V5-Qt_6_2_1_for_macOS-Debug/Display_V5_autogen/EWIEGA46WW/qrc_qml.cpp.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "EXECUTABLE"
+}
