@@ -83,14 +83,34 @@ while True:
         print("Sensor error")
     # Gravity acceleration data (i.e. acceleration just from gravity--returned
     # in meters per second squared):
-    gx,gy,gz = bno.read_gravity()
+    grx,gry,grz = bno.read_gravity()
     # Sleep for a second until the next reading.
     xls,xms = split(x,10)
     yls,yms = split(y,10)
     zls,zms = split(z,10)
+    hls,hms = split(heading,10)
+    rls,rms = split(roll,10)
+    pls,pms = split(pitch,10)
+    temp= med (temp,2)
+    rxls,rxms = split(rx,10)
+    ryls,ryms = split(ry,10)
+    rzls,rzms = split(rz,10)
+    gxls,gxms = split(gx,10)
+    gyls,gyms = split(gy,10)
+    gzls,gzms = split(gz,10)
+    
     try:
         acc = can.Message(arbitration_id=0x123, data=[ xls, xms, yls, yms, zls, zms, 0, 0], extended_id=True)
+        gyr = can.Message(arbitration_id=0x124, data=[ gxls , gxms , gyls , gyms , gzls, gzms, 0, 0], extended_id=True)
+        racc= can.Message(arbitration_id=0x125, data=[rxls,rxms,ryls,ryms,rzls,rzms,,0,0] , extended_id=True)
+        ori = can.Message(arbitration_id=0x126, data=[hls,hms,rls,rms,pls,pms,0,0]extended_id=True)
+        
         can0.send(acc)
+        can0.send(gyr)
+        can0.send(racc)
+        can0.send(ori)
+        
+        
     except:
         print("Can Error")
     time.sleep(.01)
