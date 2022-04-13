@@ -3,7 +3,7 @@ import sys
 import time
 import os
 import can
-from statistics import median
+import statistics
 from Adafruit_BNO055 import BNO055
 
 
