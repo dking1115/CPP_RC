@@ -9,8 +9,8 @@ from Adafruit_BNO055 import BNO055
 
 def split(inp,gain):
     out=inp*gain
-    ms= int(out) >> 8
-    ls= int(out) & ((1 << 8) )
+    ms= int(out) >> 6
+    ls= int(out) & ((1 << 6) -1)
     #ms= median([0,ms,255])
     #ls= median([0,ls,255])
     return ls,ms
