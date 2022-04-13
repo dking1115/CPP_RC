@@ -127,6 +127,8 @@ while True:
         can0.send(gyr)
         can0.send(racc)
         can0.send(ori)
+        can0.send(medone)
+        can0.send(medtwo)
         
         
     except:
