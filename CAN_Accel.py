@@ -60,18 +60,24 @@ while True:
     # Magnetometer data (in micro-Teslas):
     #x,y,z = bno.read_magnetometer()
     # Gyroscope data (in degrees per second):
-    gx,gy,gz = bno.read_gyroscope()
-    # Accelerometer data (in meters per second squared):
-    #x,y,z = bno.read_accelerometer()
-    # Linear acceleration data (i.e. acceleration from movement, not gravity--
-    # returned in meters per second squared):
-    x,y,z = bno.read_linear_acceleration()
+    try:
+        gx,gy,gz = bno.read_gyroscope()
+        # Accelerometer data (in meters per second squared):
+        #x,y,z = bno.read_accelerometer()
+        # Linear acceleration data (i.e. acceleration from movement, not gravity--
+        # returned in meters per second squared):
+        x,y,z = bno.read_linear_acceleration()
+    except Error:
+        print("Sensor error")
     # Gravity acceleration data (i.e. acceleration just from gravity--returned
     # in meters per second squared):
     #x,y,z = bno.read_gravity()
     # Sleep for a second until the next reading.
-    msg = can.Message(arbitration_id=0x123, data=[median([0,255,abs(int(x*5))]), median([0,255,abs(int(y*5))]), median([0,255,abs(int(z*5))]), median([0,255,abs(int(gx*10))]), median([0,255,abs(int(gy*10))]), median([0,255,abs(int(gz*10))]), 6, 7], extended_id=True)
-    can0.send(msg)
+    try:
+        msg = can.Message(arbitration_id=0x123, data=[median([0,255,abs(int(x*5))]), median([0,255,abs(int(y*5))]), median([0,255,abs(int(z*5))]), median([0,255,abs(int(gx*10))]), median([0,255,abs(int(gy*10))]), median([0,255,abs(int(gz*10))]), 6, 7], extended_id=True)
+        can0.send(msg)
+    except Error:
+        print("Can Error")
     time.sleep(.01)
 
 

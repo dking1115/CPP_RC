@@ -3,7 +3,7 @@ import can
 
 can0 = can.interface.Bus(channel = 'can0', bustype = 'socketcan_ctypes')# socketcan_native
 
-While True:
+while True:
     
     for x in range 32768:
         msx= x >> 8
