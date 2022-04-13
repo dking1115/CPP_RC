@@ -147,7 +147,7 @@ while True:
         f.write(str(roll))
         f.write(",")
         f.write(str(pitch))
-        f.writeln()
+        f.write("\n")
         f.close()
     except:
         print("Write Error")
