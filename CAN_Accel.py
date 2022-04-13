@@ -3,11 +3,9 @@ import sys
 import time
 import os
 import can
-
+from statistics import median
 from Adafruit_BNO055 import BNO055
 
-os.system('sudo ip link set can0 type can bitrate 250000')
-os.system('sudo ifconfig can0 up')
 
 can0 = can.interface.Bus(channel = 'can0', bustype = 'socketcan_ctypes')# socketcan_native
 
@@ -72,7 +70,7 @@ while True:
     # in meters per second squared):
     #x,y,z = bno.read_gravity()
     # Sleep for a second until the next reading.
-    msg = can.Message(arbitration_id=0x123, data=[abs(int(x*5)), abs(int(y*5)), abs(int(z*5)), abs(int(gx*10)), abs(int(gy*10)), abs(int(gz*10)), 6, 7], extended_id=True)
+    msg = can.Message(arbitration_id=0x123, data=[median(0,255,abs(int(x*5))), median(0,255,abs(int(y*5))), median(0,255,abs(int(z*5))), median(0,255,abs(int(gx*10))), median(0,255,abs(int(gy*10))), median(0,255,abs(int(gz*10))), 6, 7], extended_id=True)
     can0.send(msg)
     time.sleep(.01)
 
