@@ -7,15 +7,15 @@ from statistics import median
 from Adafruit_BNO055 import BNO055
 
 
-def split(float inp, int gain):
-    out=input*gain
+def split(inp,gain):
+    out=inp*gain
     ms= int(out) >> 8
     ls= int(out) & ((1 << 8) - 1)
     ms= median([0,ms,255])
     ls= median([0,ls,255])
     return ls,ms
 
-def med(float inp , int gain):
+def med(inp , gain):
     out = gain*abs(median([0,int(out),255]))
     return out
 
