@@ -7,6 +7,18 @@ from statistics import median
 from Adafruit_BNO055 import BNO055
 
 
+def split(float inp, int gain):
+    out=input*gain
+    ms= int(out) >> 8
+    ls= int(out) & ((1 << 8) - 1)
+    ms= median([0,ms,255])
+    ls= median([0,ls,255])
+    return ls,ms
+
+def med(float inp , int gain):
+    out = gain*abs(median([0,int(out),255]))
+    return out
+
 can0 = can.interface.Bus(channel = 'can0', bustype = 'socketcan_ctypes')# socketcan_native
 
 # Create and configure the BNO sensor connection.  Make sure only ONE of the
@@ -54,16 +66,16 @@ while True:
     #      heading, roll, pitch, sys, gyro, accel, mag))
     # Other values you can optionally read:
     # Orientation as a quaternion:
-    #x,y,z,w = bno.read_quaterion()
+    qx,qy,qz,qw = bno.read_quaterion()
     # Sensor temperature in degrees Celsius:
-    #temp_c = bno.read_temp()
+    temp_c = bno.read_temp()
     # Magnetometer data (in micro-Teslas):
-    #x,y,z = bno.read_magnetometer()
+    mx,my,mz = bno.read_magnetometer()
     # Gyroscope data (in degrees per second):
     try:
         gx,gy,gz = bno.read_gyroscope()
         # Accelerometer data (in meters per second squared):
-        #x,y,z = bno.read_accelerometer()
+        rx,ry,rz = bno.read_accelerometer()
         # Linear acceleration data (i.e. acceleration from movement, not gravity--
         # returned in meters per second squared):
         x,y,z = bno.read_linear_acceleration()
@@ -71,11 +83,14 @@ while True:
         print("Sensor error")
     # Gravity acceleration data (i.e. acceleration just from gravity--returned
     # in meters per second squared):
-    #x,y,z = bno.read_gravity()
+    gx,gy,gz = bno.read_gravity()
     # Sleep for a second until the next reading.
+    xls,xms = split(x,10)
+    yls,yms = split(y,10)
+    zls,zms = split(z,10)
     try:
-        msg = can.Message(arbitration_id=0x123, data=[median([0,255,abs(int(x*5))]), median([0,255,abs(int(y*5))]), median([0,255,abs(int(z*5))]), median([0,255,abs(int(gx*10))]), median([0,255,abs(int(gy*10))]), median([0,255,abs(int(gz*10))]), 6, 7], extended_id=True)
-        can0.send(msg)
+        acc = can.Message(arbitration_id=0x123, data=[ xls, xms, yls, yms, zls, zms, 0, 0], extended_id=True)
+        can0.send(acc)
     except Error:
         print("Can Error")
     time.sleep(.01)
