@@ -11,8 +11,8 @@ def split(inp,gain):
     out=inp*gain
     ms= int(out) >> 8
     ls= int(out) & ((1 << 8) - 1)
-    ms= median([0,ms,255])
-    ls= median([0,ls,255])
+    #ms= median([0,ms,255])
+    #ls= median([0,ls,255])
     return ls,ms
 
 def med(inp , gain):
