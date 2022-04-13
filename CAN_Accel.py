@@ -6,9 +6,9 @@ import can
 from statistics import median
 from Adafruit_BNO055 import BNO055
 
-f = open("Log.txt", "w")
-f.write(str(time.time()))
-f.close()
+#f = open("Log.txt", "w")
+#f.write(str(time.time()))
+#f.close()
 
 def split(inp,gain):
     out=inp*gain
@@ -101,12 +101,27 @@ while True:
     gxls,gxms = split(gx,10)
     gyls,gyms = split(gy,10)
     gzls,gzms = split(gz,10)
+    xm=med(x,5)
+    ym=med(y,5)
+    zm=med(z,5)
+    hm=med(heading,1)
+    rm=med(roll,2)
+    pm=med(pitch,2)
+    tm=med(temp,2)
+    rxm=med(rx,5)
+    rym=med(ry,5)
+    rzm=med(rz,5)
+    gxm=med(gx,5)
+    gym=med(gy,5)
+    gzm=med(gz,5)
     
     try:
         acc = can.Message(arbitration_id=0x123, data=[ xls, xms, yls, yms, zls, zms, 0, 0], extended_id=True)
         gyr = can.Message(arbitration_id=0x124, data=[ gxls , gxms , gyls , gyms , gzls, gzms, 0, 0], extended_id=True)
         racc= can.Message(arbitration_id=0x125, data=[rxls,rxms,ryls,ryms,rzls,rzms,0,0] , extended_id=True)
         ori = can.Message(arbitration_id=0x126, data=[hls,hms,rls,rms,pls,pms,temp,0],extended_id=True)
+        medone = can.Message(arbitration_id=0x127, data=[xm,ym,zm,hm,rm,pm,tm,0],extended_id=True)
+        medtwo = can.Message(arbitration_id=0x128, data=[rxm,rym,rzm,gxm,gym,gzm,0,0],extended_id=True)
         
         can0.send(acc)
         can0.send(gyr)
@@ -116,8 +131,8 @@ while True:
         
     except:
         print("Can Error")
-    print(xls)    
-    print(xms)
+    #print(xls)    
+    #print(xms)
     time.sleep(.01)
 
     try:
