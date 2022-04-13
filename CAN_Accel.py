@@ -72,7 +72,7 @@ while True:
     # in meters per second squared):
     #x,y,z = bno.read_gravity()
     # Sleep for a second until the next reading.
-    msg = can.Message(arbitration_id=0x123, data=[heading, roll, pitch, 3, 4, 5, 6, 7], extended_id=True)
+    msg = can.Message(arbitration_id=0x123, data=[int(accel), int(roll), int(pitch), 3, 4, 5, 6, 7], extended_id=True)
     can0.send(msg)
     time.sleep(.01)
 
