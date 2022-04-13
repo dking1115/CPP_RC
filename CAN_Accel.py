@@ -121,6 +121,7 @@ while True:
         f = open("Log.txt", "a")
         f.write(time.time())
         f.close()
-
+    except:
+        print("Write Error")
 
 os.system('sudo ifconfig can0 down')
