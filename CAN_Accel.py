@@ -114,7 +114,7 @@ while True:
     except:
         print("Can Error")
         
-    print(x)
+    print(xls)
     time.sleep(.01)
 
 
