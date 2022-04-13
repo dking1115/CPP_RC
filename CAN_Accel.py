@@ -113,7 +113,7 @@ while True:
         
     except:
         print("Can Error")
-        
+    print(xls)    
     print(xms)
     time.sleep(.01)
 
