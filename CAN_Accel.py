@@ -79,7 +79,7 @@ while True:
         # Linear acceleration data (i.e. acceleration from movement, not gravity--
         # returned in meters per second squared):
         x,y,z = bno.read_linear_acceleration()
-    except Error:
+    except:
         print("Sensor error")
     # Gravity acceleration data (i.e. acceleration just from gravity--returned
     # in meters per second squared):
@@ -91,7 +91,7 @@ while True:
     try:
         acc = can.Message(arbitration_id=0x123, data=[ xls, xms, yls, yms, zls, zms, 0, 0], extended_id=True)
         can0.send(acc)
-    except Error:
+    except:
         print("Can Error")
     time.sleep(.01)
 
