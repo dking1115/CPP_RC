@@ -66,7 +66,7 @@ while True:
     #      heading, roll, pitch, sys, gyro, accel, mag))
     # Other values you can optionally read:
     # Orientation as a quaternion:
-    qx,qy,qz,qw = bno.read_quaterion()
+    #qx,qy,qz,qw = bno.read_quaterion()
     # Sensor temperature in degrees Celsius:
     temp_c = bno.read_temp()
     # Magnetometer data (in micro-Teslas):
