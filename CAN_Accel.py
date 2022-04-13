@@ -122,7 +122,7 @@ while True:
 
     try:
         f = open("Log.txt", "a")
-        f.write(str(time.time())
+        f.write(str(time.time()))
         f.close()
     except:
         print("Write Error")
