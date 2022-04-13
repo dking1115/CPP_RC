@@ -7,7 +7,7 @@ from statistics import median
 from Adafruit_BNO055 import BNO055
 
 f = open("Log.txt", "w")
-f.write(time.time())
+f.write(str(time.time())
 f.close()
 
 def split(inp,gain):
