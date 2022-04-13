@@ -64,10 +64,10 @@ while True:
     # Gyroscope data (in degrees per second):
     gx,gy,gz = bno.read_gyroscope()
     # Accelerometer data (in meters per second squared):
-    x,y,z = bno.read_accelerometer()
+    #x,y,z = bno.read_accelerometer()
     # Linear acceleration data (i.e. acceleration from movement, not gravity--
     # returned in meters per second squared):
-    #x,y,z = bno.read_linear_acceleration()
+    x,y,z = bno.read_linear_acceleration()
     # Gravity acceleration data (i.e. acceleration just from gravity--returned
     # in meters per second squared):
     #x,y,z = bno.read_gravity()
