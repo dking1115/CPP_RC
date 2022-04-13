@@ -103,7 +103,7 @@ while True:
         acc = can.Message(arbitration_id=0x123, data=[ xls, xms, yls, yms, zls, zms, 0, 0], extended_id=True)
         gyr = can.Message(arbitration_id=0x124, data=[ gxls , gxms , gyls , gyms , gzls, gzms, 0, 0], extended_id=True)
         racc= can.Message(arbitration_id=0x125, data=[rxls,rxms,ryls,ryms,rzls,rzms,0,0] , extended_id=True)
-        ori = can.Message(arbitration_id=0x126, data=[hls,hms,rls,rms,pls,pms,0,0]extended_id=True)
+        ori = can.Message(arbitration_id=0x126, data=[hls,hms,rls,rms,pls,pms,0,0],extended_id=True)
         
         can0.send(acc)
         can0.send(gyr)
