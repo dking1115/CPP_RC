@@ -113,6 +113,8 @@ while True:
         
     except:
         print("Can Error")
+        
+    print(x)
     time.sleep(.01)
 
 
