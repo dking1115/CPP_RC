@@ -117,7 +117,10 @@ while True:
     print(xms)
     time.sleep(.01)
 
-
+    try:
+        f = open("Log.txt", "a")
+        f.write(time.time())
+        f.close()
 
 
 os.system('sudo ifconfig can0 down')
