@@ -70,9 +70,9 @@ while True:
     #x,y,z = bno.read_linear_acceleration()
     # Gravity acceleration data (i.e. acceleration just from gravity--returned
     # in meters per second squared):
-    #x,y,z = bno.read_gravity()
+    x,y,z = bno.read_gravity()
     # Sleep for a second until the next reading.
-    msg = can.Message(arbitration_id=0x123, data=[abs(int(accel)), abs(int(roll)), abs(int(pitch)), 3, 4, 5, 6, 7], extended_id=True)
+    msg = can.Message(arbitration_id=0x123, data=[abs(int(x*10)), abs(int(y*10)), abs(int(z*10)), 3, 4, 5, 6, 7], extended_id=True)
     can0.send(msg)
     time.sleep(.01)
 
