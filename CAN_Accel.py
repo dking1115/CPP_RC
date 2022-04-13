@@ -16,7 +16,7 @@ def split(inp,gain):
     return ls,ms
 
 def med(inp , gain):
-    out = gain*abs(median([0,int(out),255]))
+    out = gain*abs(median([0,int(inp),255]))
     return out
 
 can0 = can.interface.Bus(channel = 'can0', bustype = 'socketcan_ctypes')# socketcan_native
