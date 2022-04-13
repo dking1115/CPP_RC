@@ -1,6 +1,8 @@
 import logging
 import sys
 import time
+import os
+import can
 
 from Adafruit_BNO055 import BNO055
 
