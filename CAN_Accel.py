@@ -6,13 +6,16 @@ import can
 from statistics import median
 from Adafruit_BNO055 import BNO055
 
+f = open("Log.txt", "w")
+f.write(time.time())
+f.close()
 
 def split(inp,gain):
     out=inp*gain
     ms= int(out) >> 6
     ls= int(out) & ((1 << 6) -1)
-    #ms= median([0,ms,255])
-    #ls= median([0,ls,255])
+    ms= median([0,ms,255])
+    ls= median([0,ls,255])
     return ls,ms
 
 def med(inp , gain):
