@@ -60,22 +60,23 @@ print('Gyroscope ID:       0x{0:02X}\n'.format(gyro))
 
 print('Reading BNO055 data, press Ctrl-C to quit...')
 while True:
-    # Read the Euler angles for heading, roll, pitch (all in degrees).
-    heading, roll, pitch = bno.read_euler()
-    # Read the calibration status, 0=uncalibrated and 3=fully calibrated.
-    sys, gyro, accel, mag = bno.get_calibration_status()
-    # Print everything out.
-    #print('Heading={0:0.2F} Roll={1:0.2F} Pitch={2:0.2F}\tSys_cal={3} Gyro_cal={4} Accel_cal={5} Mag_cal={6}'.format(
-    #      heading, roll, pitch, sys, gyro, accel, mag))
-    # Other values you can optionally read:
-    # Orientation as a quaternion:
-    #qx,qy,qz,qw = bno.read_quaterion()
-    # Sensor temperature in degrees Celsius:
-    temp_c = bno.read_temp()
-    # Magnetometer data (in micro-Teslas):
-    mx,my,mz = bno.read_magnetometer()
-    # Gyroscope data (in degrees per second):
     try:
+        # Read the Euler angles for heading, roll, pitch (all in degrees).
+        heading, roll, pitch = bno.read_euler()
+        # Read the calibration status, 0=uncalibrated and 3=fully calibrated.
+        sys, gyro, accel, mag = bno.get_calibration_status()
+        # Print everything out.
+        #print('Heading={0:0.2F} Roll={1:0.2F} Pitch={2:0.2F}\tSys_cal={3} Gyro_cal={4} Accel_cal={5} Mag_cal={6}'.format(
+        #      heading, roll, pitch, sys, gyro, accel, mag))
+        # Other values you can optionally read:
+        # Orientation as a quaternion:
+        #qx,qy,qz,qw = bno.read_quaterion()
+        # Sensor temperature in degrees Celsius:
+        temp_c = bno.read_temp()
+        # Magnetometer data (in micro-Teslas):
+        mx,my,mz = bno.read_magnetometer()
+        # Gyroscope data (in degrees per second):
+    
         gx,gy,gz = bno.read_gyroscope()
         # Accelerometer data (in meters per second squared):
         rx,ry,rz = bno.read_accelerometer()
