@@ -5,10 +5,10 @@ import os
 import can
 from statistics import median
 from Adafruit_BNO055 import BNO055
-
-#f = open("Log.txt", "w")
-#f.write(str(time.time()))
-#f.close()
+log_file = time.time()
+f = open(log_file, "w")
+f.write(str(time.time()))
+f.close()
 
 def split(inp,gain):
     out=inp*gain
@@ -139,7 +139,7 @@ while True:
     time.sleep(.01)
 
     try:
-        f = open("Log.txt", "a")
+        f = open(log_file, "a")
         f.write(str(time.time()))
         f.write(",")
         f.write(str(x))
