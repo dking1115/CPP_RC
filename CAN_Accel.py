@@ -5,7 +5,10 @@ import os
 import can
 from statistics import median
 from Adafruit_BNO055 import BNO055
-log_file = str(time.time())
+import datetime
+
+log_file = str(datetime.datetime.fromtimestamp( time.time() )  )
+
 f = open(log_file, "w")
 f.write(str(time.time()))
 f.close()
