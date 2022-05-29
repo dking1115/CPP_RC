@@ -6,6 +6,7 @@ import os
 import adafruit_bno055
 import datetime
 
+bno = BNO055.BNO055(serial_port='/dev/ttyAMA0', rst=18)
 while True:
     try:
         # Read the Euler angles for heading, roll, pitch (all in degrees).
