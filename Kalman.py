@@ -35,7 +35,7 @@ while True:
         print("Sensor error")
     # Gravity acceleration data (i.e. acceleration just from gravity--returned
     # in meters per second squared):
-    grx,gry,grz = bno.read_gravity()
+    #grx,gry,grz = bno.read_gravity()
     # Sleep for a second until the next reading.
     xls,xms = split(x,10)
     yls,yms = split(y,10)
