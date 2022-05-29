@@ -2,8 +2,8 @@
 import sys
 import time
 import os
-#from Adafruit_BNO055 import BNO055
-import adafruit_bno055
+from Adafruit_BNO055 import BNO055
+#import adafruit_bno055
 import datetime
 
 bno = BNO055.BNO055(serial_port='/dev/ttyAMA0', rst=18)
