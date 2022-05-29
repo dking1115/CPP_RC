@@ -1,9 +1,6 @@
-import logging
 import sys
 import time
 import os
-import can
-from statistics import median
 from Adafruit_BNO055 import BNO055
 import datetime
 
