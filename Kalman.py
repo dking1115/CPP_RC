@@ -31,6 +31,7 @@ while True:
         # Linear acceleration data (i.e. acceleration from movement, not gravity--
         # returned in meters per second squared):
         x,y,z = bno.read_linear_acceleration()
+        print(x)
     except:
         print("Sensor error")
     # Gravity acceleration data (i.e. acceleration just from gravity--returned
@@ -63,4 +64,4 @@ while True:
     #gxm=med(gx,5)
     #gym=med(gy,5)
     #gzm=med(gz,5)
-    print(x)
+    #print(x)
