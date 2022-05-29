@@ -1,7 +1,9 @@
+
 import sys
 import time
 import os
-from Adafruit_BNO055 import BNO055
+#from Adafruit_BNO055 import BNO055
+import adafruit_bno055
 import datetime
 
 while True:
